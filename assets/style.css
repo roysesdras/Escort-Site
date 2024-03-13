@@ -1,0 +1,32 @@
+body {
+
+    content: "";
+    background-image: url(img/sexyHero.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 1);
+}
+.cardImg{
+    display: flex; 
+    padding: 0.7em;
+}
+.imgMin{
+    border-radius: 2px;
+}
+.navbar-dark .nav-item .nav-link {
+    color: #fff;
+}
+
+.navbar-dark .nav-item .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+    border-radius: 0.25rem;
+    color: #fff;
+}
+
+.fa-li {
+    position: relative;
+    left: 0;
+}
