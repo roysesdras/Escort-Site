@@ -4,25 +4,22 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Erotische lust</title>
+  <title>Erotische Lust</title>
   <meta content="Escort Agentur verfügbar für High-End-Dating, genießen Sie diskreten und professionellen service und bieten elegante und raffinierte weibliche Begleiter für alle Ihre Bedürfnisse" name="description">
 
-  <meta content="Liebe,
-                Romantik,
-                Beziehung,
-                Paar,
-                Dating,
-                Gefühle,
-                Komplizenschaft,
-                Leidenschaft,
-                Intimität,
-                Engagement" name="keywords">
+  <meta content="Liebe, Romantik, Beziehung, Paar, Dating, Gefühle, Komplizenschaft, Leidenschaft, Intimität, Engagement" name="keywords">
 
+  <meta property="og:title" content="Erotische Lust">
+  <meta property="og:image" content="https://i.postimg.cc/mrVf0Fwk/wikifit-entrainement-conseils-debutants-effets-sexualite-metabolisme.jpg">
+  <meta property="og:description" content="Entdecken Sie erotische Geschichten, die Ihre Sinne wecken und Ihnen absolute Entspannung bieten.">
   
+  <link rel="canonical" href="...">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicon-16x16.png">
+  <link rel="manifest" href="./assets/img/site.webmanifest">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
