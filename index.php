@@ -1,13 +1,24 @@
 <!DOCTYPE php>
-<php lang="en">
+<php lang="de">
 
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Erotische lust</title>
+  <meta content="Escort Agentur verfügbar für High-End-Dating, genießen Sie diskreten und professionellen service und bieten elegante und raffinierte weibliche Begleiter für alle Ihre Bedürfnisse" name="description">
 
-  <title>Divine Pleasure Escort Agency</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Liebe,
+                Romantik,
+                Beziehung,
+                Paar,
+                Dating,
+                Gefühle,
+                Komplizenschaft,
+                Leidenschaft,
+                Intimität,
+                Engagement" name="keywords">
+
+  
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
