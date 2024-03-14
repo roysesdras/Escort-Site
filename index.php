@@ -17,8 +17,8 @@
 
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicon-16x16.png">
+  <link rel="icon" sizes="32x32" href="./assets/img/favicon.png">
+  <link rel="icon" sizes="16x16" href="./assets/img/favicon-16x16.png">
   <link rel="manifest" href="./assets/img/site.webmanifest">
 
   <!-- Google Fonts -->
@@ -34,7 +34,6 @@
 
   <!-- Template Main CSS File -->
   <link href="style.css" rel="stylesheet">
-
   <script src="mon-script.js"></script>
 
 </head>
@@ -45,7 +44,7 @@
   <header id="header" class="fixed-top">
     <div class="container-fluid d-flex justify-content-between align-items-center">
 
-      <h1 class="logo me-auto me-lg-0"><a href="index.php">Divine Pleasure</a></h1>
+      <h1 class="logo me-auto me-lg-0"><a href="index.php">Erotische Lust</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.php" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -75,10 +74,11 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-left">
     <div class="container flex-column align-items-left" data-aos="zoom-in" data-aos-delay="100">
-      <h1>Divine Pleasure</h1>
-      <h2>Spicy Desires Escort Agency</h2>
-      <a href="about.php" class="btn-about">+18 Login</a>
-      <p class="sm-text">divine pleasure is an escort agency, learn more <a href="about.php">about us</a></p>
+      <h1>Escort Agentur</h1>
+      <h2>Raffinesse, Eleganz, Genuss</h2>
+      <a href="about.php" class="btn-about">+18 Eingang</a>
+      <p class="sm-text pt-3">Entdecken Sie Eleganz und Raffinesse mit unseren sorgfältig ausgewählten Escorts, die Ihnen eine faszinierende und aufmerksame Gesellschaft für Ihre größte Zufriedenheit bieten. <br> <br>
+      Ob für einen besonderen Abend, ein weltliches Ereignis oder einen intimen Kurzurlaub, lassen Sie sich von Exzellenz verführen und erleben Sie einzigartige und unvergessliche Momente. <br><br><a href="about.php">Über uns</a></p>
     </div>
   </section><!-- End Hero -->
 
@@ -86,7 +86,7 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Divine Pleasure Escort Agency</span></strong>. All Rights Reserved
+        &copy; Urheberrecht <strong><span>Erotische Lust</span></strong>.Alle Rechte vorbehalten
       </div>
       
     </div>
