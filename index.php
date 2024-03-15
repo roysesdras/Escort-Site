@@ -45,10 +45,11 @@
     <div class="container-fluid d-flex justify-content-between align-items-center">
 
       <h1 class="logo me-auto me-lg-0"><a href="index.php">Erotische Lust</a></h1>
+      <a class="navbar" id="navbar" href="index.php" style="color: black;">E-mail</a>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.php" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
-      <nav id="navbar" class="navbar order-last order-lg-0">
+      <!-- <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a class="active" href="index.php">Homepage</a></li>
           <li><a href="about.php">About</a></li>
@@ -57,14 +58,7 @@
           <li><a href="contact.php">Divine Pleasure Germany</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-      
-      <a type="button" onclick="ouvrirPopup()">Login</a>
-
-          <div class="popup" id="maPopup">
-            <span class="fermer" onclick="fermerPopup()">&times;</span>
-            <p>Contenu de la fenêtre popup...</p>
-          </div>
+      </nav> -->
       
 
     </div>
@@ -76,9 +70,9 @@
     <div class="container flex-column align-items-left" data-aos="zoom-in" data-aos-delay="100">
       <h1>Escort Agentur</h1>
       <h2>Raffinesse, Eleganz, Genuss</h2>
-      <a href="about.php" class="btn-about">+18 Eingang</a>
+      <a href="escort.php" class="btn-about">+18 Eingang</a>
       <p class="sm-text pt-3">Entdecken Sie Eleganz und Raffinesse mit unseren sorgfältig ausgewählten Escorts, die Ihnen eine faszinierende und aufmerksame Gesellschaft für Ihre größte Zufriedenheit bieten. <br> <br>
-      Ob für einen besonderen Abend, ein weltliches Ereignis oder einen intimen Kurzurlaub, lassen Sie sich von Exzellenz verführen und erleben Sie einzigartige und unvergessliche Momente. <br><br><a href="about.php">Über uns</a></p>
+      Ob für einen besonderen Abend, ein weltliches Ereignis oder einen intimen Kurzurlaub, lassen Sie sich von Exzellenz verführen und erleben Sie einzigartige und unvergessliche Momente. <br><br><a href="about.php"><strong>Über uns</strong></a></p>
     </div>
   </section><!-- End Hero -->
 
@@ -86,20 +80,10 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Urheberrecht <strong><span>Erotische Lust</span></strong>.Alle Rechte vorbehalten
+        &copy; <strong><span>Erotische Lust</span></strong>.Alle Rechte vorbehalten
       </div>
-      
     </div>
   </footer><!-- End  Footer -->
-
-  <div id="preloader"></div>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-  <script>
-  $(document).ready(function(){
-    $('[data-toggle="popover"]').popover();
-  });
-</script>
 
 
   <!-- Vendor JS Files -->
