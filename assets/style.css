@@ -32,18 +32,23 @@ p {
     box-shadow   : rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
-.navbar-dark .nav-item .nav-link {
-    color: #fff;
+.tooltip {
+    position     : relative;
+    display      : inline-block;
+    border-bottom: 1px dotted black;
 }
 
-.navbar-dark .nav-item .nav-link:hover {
-    background-color: rgba(255, 255, 255, 0.1);
-    transition      : all 0.3s ease;
-    border-radius   : 0.25rem;
-    color           : #fff;
+.tooltip-inner {
+    text-align: center;
+    /* Centrer le texte du tooltip */
 }
 
-.fa-li {
-    position: relative;
-    left    : 0;
+/* Décaler le tooltip vers le haut pour le centrer */
+.tooltip.center .tooltip-arrow {
+    left     : 50%;
+    transform: translateX(-50%);
+}
+
+a {
+    text-decoration: none;
 }
