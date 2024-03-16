@@ -3,9 +3,9 @@
                 <div class="row">
                     <div class="col-md-3"></div>
                     <div class="col-md-6">
-                    <h2 class="text-center pt-5 mb-2" id="souscription">Anmeldeformular</h2>
-                    <p class="text-center">Füllen Sie das untenstehende Anmeldeformular aus, um von unseren außergewöhnlichen Dienstleistungen zu profitieren. <br>Wir freuen uns über Ihren Besuch und bieten Ihnen maßgeschneiderte Lösungen, die Ihren finanziellen Bedürfnissen entsprechen. </p>
-                        <form action="mail_souscription.php" method="post" class="mb-4">
+                    <h2 class="text-center pt-5 mb-2" id="reservation">Reservierung</h2>
+                    <p class="text-center">Um unseren exklusiven Escortservice in vollen Zügen genießen zu können, füllen Sie bitte unser Buchungsformular unten aus.</p>
+                        <form action="behandlung.php" method="post" class="mb-4 p-2" id="forms">
                             <!-- Nom -->
                             <div class="mb-3">
                                 <label>Name</label>
@@ -56,12 +56,12 @@
 
                             <!-- Numero de telephone/whatsap -->
                             <div class="mb-4">
-                                <label>Telefonnummer/WhatsApp</label>
+                                <label>Telefon (whatsapp)</label>
                                 <input type="tel" class="form-control" name="phone" max="15" placeholder="(+49) xxxxxx" required>
                             </div>
 
                             <!-- Option d'escorte choisie -->
-                            <select class="form-select mb-3" name="option_escorte" required>
+                            <select class="form-select mb-3 form-control" name="option_escorte" required>
                                 <option selected>Wählen Sie eine Escort</option>
                                 <option value="alice">Alice</option>
                                 <option value="amara">Amara</option>
@@ -92,7 +92,7 @@
                             </div>
 
                             <!-- lieu du rendez-vous -->
-                            <select class="form-select mb-4" name="lieu_rencontre" required>
+                            <select class="form-select mb-4 form-control" name="lieu_rencontre" required>
                                 <option selected>Wählen Treffpunkt</option>
                                 <option value="hotel">Hotels</option>
                                 <option value="domi_privE">Privathaus</option>
@@ -101,7 +101,7 @@
                             </select>
 
                             <!-- Durée de rencontre -->
-                            <select class="form-select mb-1" name="lieu_rencontre" required>
+                            <select class="form-select mb-1 form-control" name="duree_tarif" required>
                                 <option selected>Wählen Sie die Dauer des Treffens</option>
                                 <option value="2hr">2 Stunden > 392€</option>
                                 <option value="3hr">3 Stunden > 540€</option>
@@ -114,7 +114,7 @@
 
                             <div class="court_text mb-3">
                                 <label for="">
-                                    Jede weitere Stunde wird mit 130€ berechnet und jeder weitere Tag wird mit 992€berechnet
+                                    Jede weitere Stunde wird mit 130€ berechnet und jeder weitere Tag wird mit 992€ berechnet
                                 </label>
                             </div>
 
@@ -125,9 +125,10 @@
                                 </label>
                             </div>
 
-      
-                            <input type="submit" name="submit" class="btn btn-primary" value="Ich abonniere">
+    
+                            <input type="submit" name="submit" class="btn" value="Ich reserviere">
                         </form>
+                    
                     </div>
                     <div class="col-md-3"></div>
                 </div>

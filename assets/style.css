@@ -29,7 +29,7 @@ p {
 
 #photo {
     border-radius: 3px 3px 0px 0px;
-    box-shadow   : rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    box-shadow   : rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 .tooltip {
@@ -51,4 +51,30 @@ p {
 
 a {
     text-decoration: none;
+}
+
+#forms {
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.form-control,
+#gridCheck {
+    background-color: #ffffff62;
+    border          : 0px;
+    border-radius   : 3px;
+}
+
+.form-control:hover,
+#gridCheck:hover {
+    background-color: #ffffff62;
+}
+
+.btn {
+    background-color: rgba(226, 43, 205, 0.381);
+    border-radius   : 2px;
+}
+
+.btn:hover {
+    border       : rgba(226, 43, 205, 0.381) solid 2px;
+    border-radius: 2px;
 }
