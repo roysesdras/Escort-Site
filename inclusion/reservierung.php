@@ -121,7 +121,7 @@
                             <div class="form-check mb-4">
                                 <input class="form-check-input" type="checkbox" id="gridCheck" required>
                                 <label class="form-check-label" for="gridCheck">
-                                    Mit dem Absenden dieses Formulars Stimmen Sie unseren <a href="#">Allgemeinen Nutzungsbedingungen</a> sowie unseren <a href="#">zahlungsrichtlinien</a>zu.
+                                    Mit dem Absenden dieses Formulars Stimmen Sie unseren <a href="cgu.php">Allgemeinen Nutzungsbedingungen</a> sowie unseren <a href="zahlungspolitik.php">zahlungsrichtlinien</a>zu.
                                 </label>
                             </div>
 

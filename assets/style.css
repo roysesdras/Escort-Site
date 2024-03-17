@@ -21,9 +21,9 @@ h1 {
 
 p {
     font-family: "Poppins", sans-serif;
-    font-weight: 300;
+    font-weight: 200;
     font-style : normal;
-    font-size  : 20px;
+    font-size  : 18px;
     color      : #000;
 }
 
@@ -53,7 +53,8 @@ a {
     text-decoration: none;
 }
 
-#forms {
+#forms,
+.politik {
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
@@ -77,4 +78,25 @@ a {
 .btn:hover {
     border       : rgba(226, 43, 205, 0.381) solid 2px;
     border-radius: 2px;
+}
+
+table {
+    width          : 75%;
+    border-collapse: collapse;
+    margin-bottom  : 20px;
+}
+
+th,
+td {
+    border    : 1px solid #dddddd;
+    padding   : 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f29e;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f25e;
 }
