@@ -41,7 +41,7 @@
                     <p>Wir akzeptieren nur Zahlungen per Banküberweisung, um die Sicherheit unserer Kunden und Begleitpersonen zu gewährleisten. Details zur Zahlungsmethode werden nach der Buchung zur Verfügung gestellt.</p>
 
                     <h3>Überstundenpreise</h3>
-
+                <div style="display: flex; justify-content: center;">
                     <table>
                         <thead>
                             <tr>
@@ -80,6 +80,7 @@
                             </tr>
                         </tbody>
                     </table>
+                </div>
 
                     <p>
                         Die Zahlung muss 1 Tag vor dem Termin erfolgen. <br>
