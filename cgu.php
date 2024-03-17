@@ -29,14 +29,14 @@
 
 </head>
 <body>
-    
-        <div class="container-fluide cgu p-2 bg-danger-subtle opacity-75 text-center mb-3">
+    <section>
+        <div class="cgu p-2 bg-danger-subtle opacity-75 text-center mb-3">
             <h4>Allgemeine Nutzungsbedingung Erotische Lust</h4>
         </div>
+        <div class="container">
         <div class="row">
             <div class="col-md-3"></div>
-            <div class=" container col-md-6 mb-4 politik">
-        
+            <div class="col-md-6 mb-4 politik">
                 <h3>Nutzung der Website</h3>
                 <p>Sie müssen mindestens 18 Jahre alt sein, um unsere Website und Dienstleistungen nutzen zu können.
                 Sie verpflichten sich, bei der Buchung genaue und vollständige Informationen anzugeben.<br>
@@ -67,13 +67,22 @@
                 <p>Sie erklären sich damit einverstanden, Erotische Lust, seine leitenden Angestellten, Direktoren, Mitarbeiter, Vertreter und Partner von allen Ansprüchen oder Forderungen, einschließlich Anwaltskosten, freizustellen, die sich aus Ihrer Nutzung unserer Website oder Ihren Verstößen gegen diese Nutzungsbedingungen ergeben.</p>
 
                 <h3>Allgemeine Bestimmungen</h3>
-                <p>Diese AGB stellen die gesamte Vereinbarung zwischen Ihnen und Erotischer Lust in Bezug auf die Nutzung unserer Website und unserer Dienste dar.<br>
-                Alle Streitigkeiten, die sich aus diesen Nutzungsbedingungen ergeben, unterliegen den in Ihrem Wohnsitzland geltenden Gesetzen.<br>
-                Sollte eine Bestimmung dieser Nutzungsbedingungen für ungültig oder nicht durchsetzbar befunden werden, wird diese Bestimmung geändert, um die Absichten der Parteien bestmöglich widerzuspiegeln, und die anderen Bestimmungen bleiben in Kraft.</p>
-                
+                <p>
+                    Diese AGB stellen die gesamte Vereinbarung zwischen Ihnen und Erotischer Lust in Bezug auf die Nutzung unserer Website und unserer Dienste dar.<br>
+                    Alle Streitigkeiten, die sich aus diesen Nutzungsbedingungen ergeben, unterliegen den in Ihrem Wohnsitzland geltenden Gesetzen.<br>
+                    Sollte eine Bestimmung dieser Nutzungsbedingungen für ungültig oder nicht durchsetzbar befunden werden, wird diese Bestimmung geändert, um die Absichten der Parteien bestmöglich widerzuspiegeln, und die anderen Bestimmungen bleiben in Kraft
+                </p>
+
+                <p class="mt-4">
+                    <strong>Wichtig: </strong>Durch die Nutzung unserer Website und unserer Dienste bestätigen Sie, dass Sie diese Nutzungsbedingungen gelesen, verstanden und akzeptiert haben.
+                </p>
             </div>
             <div class="col-md-3"></div>
         </div>
+        </div>
+    </section>
+        
+        
     
 
 <footer class="p-3 bg-danger-subtle opacity-75 text-center">

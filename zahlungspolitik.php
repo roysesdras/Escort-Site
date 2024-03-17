@@ -29,7 +29,7 @@
 
 </head>
 <body>
-    <section class="politik">
+    <section class="">
         <div class="Zahlung p-2 bg-danger-subtle opacity-75 text-center mb-3">
             <h3>Zahlung Politik</h3>
         </div>
