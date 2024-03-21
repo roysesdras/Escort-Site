@@ -126,7 +126,7 @@
                             </div>
 
     
-                            <input type="submit" name="submit" class="btn" value="Ich reserviere">
+                            <input type="submit" name="submit" class="btn" value="💋 Ich reserviere">
                         </form>
                     
                     </div>

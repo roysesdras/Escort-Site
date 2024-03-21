@@ -3,7 +3,7 @@
 body {
 
     content              : "";
-    background-image     : url("https://i.postimg.cc/D0LsLzLB/sexy-Hero4-min.png");
+    background-image     : url("https://i.postimg.cc/9Q0bD8d4/Background-1-min.png");
     background-attachment: fixed;
     background-repeat    : no-repeat;
     background-position  : center;
@@ -71,12 +71,12 @@ a {
 }
 
 .btn {
-    background-color: rgba(226, 43, 205, 0.381);
+    background-color: rgba(227, 141, 153, 0.74);
     border-radius   : 2px;
 }
 
 .btn:hover {
-    border       : rgba(226, 43, 205, 0.381) solid 2px;
+    border       : rgba(227, 141, 153, 0.74) solid 2px;
     border-radius: 2px;
 }
 

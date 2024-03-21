@@ -72,7 +72,7 @@
       <h2>Raffinesse, Eleganz, Genuss</h2>
       <a href="escort.php" class="btn-about">+18 Eingang</a>
       <p class="sm-text pt-3">Entdecken Sie Eleganz und Raffinesse mit unseren sorgfältig ausgewählten Escorts, die Ihnen eine faszinierende und aufmerksame Gesellschaft für Ihre größte Zufriedenheit bieten. <br> <br>
-      Ob für einen besonderen Abend, ein weltliches Ereignis oder einen intimen Kurzurlaub, lassen Sie sich von Exzellenz verführen und erleben Sie einzigartige und unvergessliche Momente. <br><br><a href="about.php"><strong>Über uns</strong></a></p>
+      Ob für einen besonderen Abend, ein weltliches Ereignis oder einen intimen Kurzurlaub, lassen Sie sich von Exzellenz verführen und erleben Sie einzigartige und unvergessliche Momente. <br><br><a href="uberuns.php"><strong>Über uns</strong></a></p>
     </div>
   </section><!-- End Hero -->
 
