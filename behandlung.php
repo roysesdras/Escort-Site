@@ -40,18 +40,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Envoyer le mail de manière plus sécurisée
         $retour = mail("votre@adresse-email.de", "Demande de rendez-vous avec une escorte", $message, $headers);
 
-        // Vérifier si le mail a été envoyé avec succès
-        if ($retour) {
-            echo '<p style="font-size: 18px; padding: 5em; font-family: calibri;"> ✅ Vielen Dank für Ihre Terminanfrage! Wir werden uns in Kürze mit Ihnen in Verbindung setzen, um die Details zu bestätigen. <br>
-            <a href="https://votre-site-web.de/">Zurück zur Startseite</a></p>';
-        } else {
-            echo '<p style="font-size: 18px; padding: 5em; font-family:calibri;">Beim senden der e-Mail ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut. <br>
-            <a href="https://votre-site-web.de/#reservation">Zurück zum Formular</a></p>';
-        }
-    } else {
-        echo '<p style="font-size: 18px; padding: 5em; font-family:calibri;">Die E-Mail-adresse ist ungültig. Bitte überprüfen und versuchen Sie es erneut. <br>
-        <a href="https://votre-site-web.de/#reservation">Zurück zum Formular</a></p>';
-    }
+        // Redirigé vers la page de confirmation
+        header("Location:confirm.php");
+        exit;       
+    } 
+    
 } else {
     // Si le formulaire n'a pas été soumis
     echo '<p style="font-size: 18px; padding: 5em; font-family:calibri;">Das Formular wurde nicht korrekt eingereicht. Bitte versuchen Sie es erneut. <br>
