@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Bestätigung Seite</title>
 
     <!-- bootstrap import -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -19,11 +19,29 @@
 
 </head>
 <body>
-    
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6 pt-3 politik mb-4">
+                
+                <h3>😘 Bestätigung Ihrer Reservierung</h3>
+                <p>
+                    Sehr geehrter Kunde, <br><br>
 
+                    Vielen Dank für Ihre Buchung auf unserer Escort-Agentur-Website. Ihre Anfrage wurde gut berücksichtigt. <br><br>
 
-    <footer class="p-3 bg-danger-subtle opacity-75 text-center">
-        &copy; <strong><span>Erotische Lust</span></strong>. Alle Rechte vorbehalten
-    </footer>
+                    Wir werden uns in Kürze mit Ihnen in Verbindung setzen, um Ihren Termin zu bestätigen. In der Zwischenzeit können Sie sich gerne an uns wenden, wenn Sie spezielle Fragen oder Wünsche haben <a href="https://t.me/erotischelust">@erotischelust</a>. <br><br>
+
+                    Wir freuen uns darauf, Sie willkommen zu heißen und Ihre Erfahrung angenehm und unvergesslich zu machen. <br><br>
+
+                    Grüße,<br>
+                    Das Team von Erotische Lust <br> <br>
+                </p>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <p> <a href="index.php">Zurück zur Website</a> </p>
+    </div>
+
 </body>
 </html>

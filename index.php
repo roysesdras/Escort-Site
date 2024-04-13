@@ -80,7 +80,7 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; <strong><span>Erotische Lust</span></strong>.Alle Rechte vorbehalten
+      2024 &copy; <strong><span>Erotische Lust</span></strong>.Alle Rechte vorbehalten
       </div>
     </div>
   </footer><!-- End  Footer -->
