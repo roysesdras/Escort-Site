@@ -52,45 +52,46 @@
                         <tbody>
                             <tr>
                                 <td>2 Stunden</td>
-                                <td>392 €</td>
+                                <td>510 €</td>
                             </tr>
                             <tr>
                                 <td>3 Stunden</td>
-                                <td>540 €</td>
+                                <td>640 €</td>
                             </tr>
                             <tr>
-                                <td>6 Stunden (1/2 Tag)</td>
-                                <td>850 €</td>
+                                <td>6 Stunden</td>
+                                <td>1050 €</td>
                             </tr>
-                            <tr>
+                            <!-- <tr>
                                 <td>6 Stunden (1/2 Nacht)</td>
                                 <td>996 €</td>
-                            </tr>
+                            </tr> -->
                             <tr>
-                                <td>12 Stunden (Nacht)</td>
-                                <td>1250 €</td>
+                                <td>12 Stunden</td>
+                                <td>1500 €</td>
                             </tr>
                             <tr>
                                 <td>1 Tag (24 Stunden)</td>
-                                <td>1775 €</td>
+                                <td>1810 €</td>
                             </tr>
                             <tr>
                                 <td>1 Woche (7 Tage)</td>
-                                <td>4483 €</td>
+                                <td>5000 €</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
 
                     <p>
-                        Die Zahlung muss 1 Tag vor dem Termin erfolgen. <br>
-                        Zahlungen können nur aus Sicherheitsgründen per Banküberweisung erfolgen. <br>
-                        Jede zusätzliche Stunde wird mit 130€ und jeder zusätzliche Tag mit 992€ berechnet.
+                    Um Ihren Platz zu sichern, buchen Sie bitte mindestens einen Tag vor Ihrem Termin. <br>
+                    Zu Ihrer Sicherheit können Zahlungen nur per Sofortüberweisung erfolgen. <br>
+                    Bei überschreitung wird jede zusätzliche Stunde mit 160 € und jeder zusätzliche Tag mit 525 € berechnet. <br>
+                    Genießen Sie unsere Dienstleistungen in aller Ruhe und buchen Sie jetzt !
                     </p>
 
                     <h3>Stornierung und Rückerstattung</h3>
                     <p>
-                        Jede Stornierung der Buchung führt zu einer Rückerstattung von 50% der vom Kunden gezahlten Gesamtgebühr. Die Rückerstattung erfolgt auch per Banküberweisung.
+                        Bitte beachten Sie, dass eine Stornierung der Buchung oder die Nichteinhaltung des Termins keinen Anspruch auf Rückerstattung hat. <br>Im Falle einer Stornierung erfolgt keine Rückerstattung, unabhängig davon, wie viel der Kunde bereits bezahlt hat. <br>Vielen Dank für Ihr Verständnis.
                     </p>
 
                     <h3>Streitigkeiten</h3>

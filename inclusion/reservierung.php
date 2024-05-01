@@ -103,18 +103,18 @@
                             <!-- Durée de rencontre -->
                             <select class="form-select mb-1 form-control" name="duree_tarif" required>
                                 <option selected>Wählen Sie die Dauer des Treffens</option>
-                                <option value="2hr">2 Stunden > 392€</option>
-                                <option value="3hr">3 Stunden > 540€</option>
-                                <option value="6hr_jour">6 Stunden (1/2 Tage) > 850€</option>
-                                <option value="6hr_nuit">6 Stunden (1/2 Nächte) > 996€</option>
-                                <option value="12hr_nuit">12 Stunden (nachts) > 1250€</option>
-                                <option value="1jr_12hr">1 Tag (24 Stunden) > 1775€</option>
-                                <option value="1_semain">1 Woche (7 Tage) > 4483€</option>
+                                <option value="2hr">2 Stunden > 510 €</option>
+                                <option value="3hr">3 Stunden > 640 €</option>
+                                <option value="6hr_jour">6 Stunden > 1050 €</option>
+                                <!-- <option value="6hr_nuit">6 Stunden (1/2 Nächte) > 996€</option> -->
+                                <option value="12hr_nuit">12 Stunden > 1500 €</option>
+                                <option value="1jr_12hr">1 Tag (24 Stunden) > 1810 €</option>
+                                <option value="1_semain">1 Woche (7 Tage) > 5000 €</option>
                             </select>
 
                             <div class="court_text mb-3">
                                 <label for="">
-                                    Jede weitere Stunde wird mit 130€ berechnet und jeder weitere Tag wird mit 992€ berechnet
+                                    Jede weitere Stunde wird mit 160 € berechnet und jeder weitere Tag wird mit 525 € berechnet
                                 </label>
                             </div>
 
