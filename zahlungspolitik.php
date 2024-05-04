@@ -86,7 +86,6 @@
                     Um Ihren Platz zu sichern, buchen Sie bitte mindestens einen Tag vor Ihrem Termin. <br>
                     Zu Ihrer Sicherheit können Zahlungen nur per Sofortüberweisung erfolgen. <br>
                     Bei überschreitung wird jede zusätzliche Stunde mit 160 € und jeder zusätzliche Tag mit 525 € berechnet. <br>
-                    Genießen Sie unsere Dienstleistungen in aller Ruhe und buchen Sie jetzt !
                     </p>
 
                     <h3>Stornierung und Rückerstattung</h3>
@@ -94,13 +93,13 @@
                         Bitte beachten Sie, dass eine Stornierung der Buchung oder die Nichteinhaltung des Termins keinen Anspruch auf Rückerstattung hat. <br>Im Falle einer Stornierung erfolgt keine Rückerstattung, unabhängig davon, wie viel der Kunde bereits bezahlt hat. <br>Vielen Dank für Ihr Verständnis.
                     </p>
 
-                    <h3>Streitigkeiten</h3>
+                    <!-- <h3>Streitigkeiten</h3>
                     <p>
                         Bei Streitigkeiten über eine Zahlung Kontaktieren Sie uns bitte sofort, um das Problem gütlich zu lösen. Wenn keine Einigung erzielt wird, werden Streitigkeiten dem zuständigen Gericht vorgelegt.
-                    </p>
+                    </p> -->
 
                     <p class="mt-4">
-                       <strong>Wichtig:</strong> Indem Sie diese Nutzungsbedingungen und zahlungsrichtlinien akzeptieren, bestätigen Sie, dass Sie die Bedingungen für die Nutzung unserer Dienste gelesen, verstanden und akzeptiert haben.
+                       <strong>Wichtig:</strong> Die Reisekosten gehen zu Lasten des Kunden
                     </p>
 
                 </div>
